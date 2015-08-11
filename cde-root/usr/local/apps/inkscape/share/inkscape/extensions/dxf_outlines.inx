@@ -1,0 +1,18 @@
+<inkscape-extension>
+    <_name>Desktop Cutting Plotter</_name>
+    <id>org.ekips.output.dxf_outlines</id>
+	<dependency type="extension">org.inkscape.output.svg.inkscape</dependency>
+	<dependency type="executable" location="extensions">dxf_outlines.py</dependency>
+	<dependency type="executable" location="extensions">inkex.py</dependency>
+    <output>
+                <extension>.dxf</extension>
+	        <mimetype>image/dxf</mimetype>
+                <_filetypename>Desktop Cutting Plotter (*.DXF)</_filetypename>
+                <_filetypetooltip>Desktop Cutting Plotter</_filetypetooltip>
+                <dataloss>TRUE</dataloss>
+    </output>
+    <script>
+        <command reldir="extensions" interpreter="python">dxf_outlines.py</command>
+        <helper_extension>org.inkscape.output.svg.inkscape</helper_extension>
+    </script>
+</inkscape-extension>

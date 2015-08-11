@@ -1,0 +1,63 @@
+Extension "Random Point" failed to load because a dependency was not met.
+Dependency:
+  type: plugin
+  location: path
+  string: randompnt
+
+Extension "DXF Output" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: pstoedit
+  description: pstoedit must be installed to run; see http://www.pstoedit.net/pstoedit
+
+Extension "Random Position" failed to load because a dependency was not met.
+Dependency:
+  type: plugin
+  location: path
+  string: randompos
+
+Extension "Postscript Input" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: pstoedit
+
+Extension "GIMP XCF" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: gimp
+
+Extension "EPS Input" failed to load because a dependency was not met.
+Dependency:
+  type: extension
+  location: path
+  string: org.inkscape.input.ps
+
+Extension "LaTeX formula" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: pstoedit
+
+Extension "Sketch Input" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: skconvert
+
+Extension "DXF Input" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: dxf2svg
+  description: dxf2svg may come with Inkscape, but is also at http://dxf-svg-convert.sourceforge.net/
+
+Extension "Dia Input" failed to load because a dependency was not met.
+Dependency:
+  type: executable
+  location: path
+  string: dia
+  description: In order to import Dia files, Dia itself must be installed.  You can get Dia at http://www.gnome.org/projects/dia/
+

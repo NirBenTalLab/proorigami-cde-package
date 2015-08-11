@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created with Dunnart (http://www.csse.monash.edu.au/~mwybrow/dunnart/)-->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dunnart="http://www.csse.monash.edu.au/~mwybrow/dunnart.dtd" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:proorigami="http://www.csse.unimelb.edu.au/~astivala/proorigami.dtd" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="9 -225 717 1889">
+  <proorigami:identification xmlns:proorigami="http://www.csse.unimelb.edu.au/~astivala/proorigami.dtd" pdbId="1CIJ" outputFilename="1CIJ.svg" numberOfDomains="1" totalDomains="1" creationTime="24Jul2015 03:11:06" program="ptgraph2" version="Revision 4288:4291, Fri Aug 10 09:43:43 EST 2012" commandLine="../../local/munk/data/phd/phd/ptgraph/ptgraph2.py -r35 -t dssp -l crossing:black,red,green,navy,blue -b sequential -q -f auto -o gradient -p none -v e1cijA1.pml"/>
+  <dunnart:options instantFeedback="1" newConnType="53" orientation="0" graphMode="0" automaticGraphLayout="0" layoutMethod="0" layoutMode="0" layoutBeautify="1" avoidBuffer="10" routingBuffer="4" downwardSeparation="0.5" pageBoundaryConstraints="0" defaultIdealConnectorLength="1" penaliseCrossings="0" segmentPenalty="50" colourInterferingConnectors="1" rubberBandRouting="0" interferingConnectorColours="000000,ff0000,008000,000080,0000ff"/>
+  <sodipodi:namedview showguides="false" guidetolerance="5.0" guidecolor="#000000ff" guideopacity="0.25" bordercolor="#000000" borderopacity="0.5" width="717px" height="1889px">
+    <sodipodi:guide dunnart:type="indGuide" position="316" orientation="vertical" dunnart:direction="100" id="2" dunnart:position="313">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="2" objOneID="4" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="193" orientation="horizontal" dunnart:direction="101" id="3" dunnart:position="190">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="3" objOneID="4" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="371" orientation="vertical" dunnart:direction="100" id="5" dunnart:position="368">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="5" objOneID="6" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="193" orientation="horizontal" dunnart:direction="101" id="7" dunnart:position="190">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="7" objOneID="6" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="426" orientation="vertical" dunnart:direction="100" id="9" dunnart:position="423">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="9" objOneID="10" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="9" objOneID="43" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="9" objOneID="44" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="340" orientation="horizontal" dunnart:direction="101" id="11" dunnart:position="337">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="11" objOneID="10" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="481" orientation="vertical" dunnart:direction="100" id="13" dunnart:position="478">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="13" objOneID="14" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="382" orientation="horizontal" dunnart:direction="101" id="15" dunnart:position="379">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="15" objOneID="14" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="536" orientation="vertical" dunnart:direction="100" id="17" dunnart:position="533">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="17" objOneID="18" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="382" orientation="horizontal" dunnart:direction="101" id="19" dunnart:position="379">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="19" objOneID="18" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="591" orientation="vertical" dunnart:direction="100" id="21" dunnart:position="588">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="21" objOneID="22" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="21" objOneID="47" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="21" objOneID="48" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="21" objOneID="49" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="382" orientation="horizontal" dunnart:direction="101" id="23" dunnart:position="379">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="23" objOneID="22" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="646" orientation="vertical" dunnart:direction="100" id="25" dunnart:position="643">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="26" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="50" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="51" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="52" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="53" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="54" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="55" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="56" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="25" objOneID="57" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="361" orientation="horizontal" dunnart:direction="101" id="27" dunnart:position="358">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="27" objOneID="26" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="701" orientation="vertical" dunnart:direction="100" id="29" dunnart:position="698">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="29" objOneID="30" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="29" objOneID="58" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="29" objOneID="59" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="29" objOneID="60" alignmentPos="4"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="29" objOneID="61" alignmentPos="4"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="382" orientation="horizontal" dunnart:direction="101" id="31" dunnart:position="379">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="31" objOneID="30" alignmentPos="0"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="-8" orientation="horizontal" dunnart:direction="101" id="34" dunnart:position="-11">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="34" objOneID="36" alignmentPos="1"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="34" objOneID="41" alignmentPos="1"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="34" objOneID="42" alignmentPos="1"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="348" orientation="vertical" dunnart:direction="100" id="35" dunnart:position="345">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="35" objOneID="36" alignmentPos="3"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="46" orientation="horizontal" dunnart:direction="101" id="37" dunnart:position="43">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="37" objOneID="38" alignmentPos="1"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="37" objOneID="45" alignmentPos="1"/>
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="37" objOneID="46" alignmentPos="1"/>
+    </sodipodi:guide>
+    <sodipodi:guide dunnart:type="indGuide" position="348" orientation="vertical" dunnart:direction="100" id="39" dunnart:position="345">
+      <dunnart:node dunnart:type="constraint" relType="alignment" constraintID="39" objOneID="38" alignmentPos="3"/>
+    </sodipodi:guide>
+  </sodipodi:namedview>
+  <style type="text/css">.shape   { stroke:black; stroke-width:1px; fill:#f0f0d2; } .connector { fill:none; stroke:black; stroke-width:1px; stroke-linecap:butt; stroke-linejoin:miter; stroke-opacity:1; } .connector:hover { stroke-width:5px; } .overlaphighlight { fill:none; stroke:#9100ff; stroke-width:15px; stroke-linecap:round; stroke-linejoin:round; stroke-opacity:0.61254614; } .cluster { stroke:#60cdf3; stroke-linejoin:round; stroke-width:10; stroke-miterlimit:4; fill:#60cdf3; opacity:0.33333333; } .tLabel { text-anchor:middle; text-align:center; } .tsLabel { font-size:11px; font-style:normal; font-weight:normal; fill:black; fill-opacity:1; stroke:none; font-family:DejaVu Sans; } .tshtLabel { font-size:11px; font-style:italic; font-weight:normal; fill:black; fill-opacity:1; stroke:none; font-family:DejaVu Sans; } .frLabel { font-size:872415232px; font-style:normal; font-weight:normal; fill:black; fill-opacity:1; stroke:none; stroke-width:1px; stroke-linecap:butt; stroke-linejoin:miter; stroke-opacity:1; font-family:DejaVu Sans; font-stretch:normal; font-variant:normal; text-anchor:middle; text-align:center; progression-align:center; writing-mode:lr; line-height:125%; } </style>
+  <defs>
+    <marker inkscape:stockid="ConnArrowEnd" orient="auto" refX="7.5" refY="0.0" id="ConnArrowEnd" style="overflow:visible;">
+      <path d="M 0.0,0.0 L 1.0,-5.0 L -12.5,0.0 L 1.0,5.0 L 0.0,0.0 z" style="fill-rule:evenodd; stroke:black; stroke-width:1px; marker-start:none;" transform="scale(0.6) rotate(180)"/>
+    </marker>
+    <marker inkscape:stockid="ConnArrowEndNormal" orient="auto" refX="7.5" refY="0.0" id="ConnArrowEndNormal" style="overflow:visible;">
+      <path d="M 1.0,-7.0 L -12.5,0.0 M 1.0,7.0 L -12.5,0.0 z" style="fill-rule:evenodd; fill:none; stroke:black; stroke-width:1px; marker-start:none;" transform="scale(0.6) rotate(180)"/>
+    </marker>
+    <marker inkscape:stockid="ConnArrowEndInheritance" orient="auto" refX="7.5" refY="0.0" id="ConnArrowEndInheritance" style="overflow:visible;">
+      <path d="M 0.0,0.0 L 1.0,-7.0 L -12.5,0.0 L 1.0,7.0 L 0.0,0.0 z" style="fill-rule:evenodd; fill:white; stroke:black; stroke-width:1px; marker-start:none;" transform="scale(0.6) rotate(180)"/>
+    </marker>
+    <marker inkscape:stockid="ConnArrowEndAggregation" orient="auto" refX="7.5" refY="0.0" id="ConnArrowEndAggregation" style="overflow:visible;">
+      <path d="M 6.0,0.0 L -3.25,-6.0 L -12.5,0.0 L -3.25,6.0 L 6.0,0.0 z" style="fill-rule:evenodd; fill:white; stroke:black; stroke-width:1px; marker-start:none;" transform="scale(0.6) rotate(180)"/>
+    </marker>
+    <marker inkscape:stockid="ConnArrowEndComposition" orient="auto" refX="7.5" refY="0.0" id="ConnArrowEndComposition" style="overflow:visible;">
+      <path d="M 6.0,0.0 L -3.25,-6.0 L -12.5,0.0 L -3.25,6.0 L 6.0,0.0 z" style="fill-rule:evenodd; fill:black; stroke:black; stroke-width:1px; marker-start:none;" transform="scale(0.6) rotate(180)"/>
+    </marker>
+  </defs>
+  <path dunnart:type="cluster" id="92" dunnart:contains="36 38" dunnart:rectangular="1" class="cluster" d="M 354.001,-23.1671 L 354.001,61.8329 C 354.001,64.8329 357.001,67.8329 360.001,67.8329L 392.001,67.8329 C 395.001,67.8329 398.001,64.8329 398.001,61.8329L 398.001,-23.1671 C 398.001,-26.1671 395.001,-29.1671 392.001,-29.1671L 360.001,-29.1671 C 357.001,-29.1671 354.001,-26.1671 354.001,-23.1671Z"/>
+  <path dunnart:type="cluster" id="93" dunnart:contains="4 6 10 14 18 22 26 30" dunnart:fillColour="ff000055;" dunnart:rectangular="1" class="cluster" d="M 295.64,205.001 L 295.64,530.001 C 295.64,533.001 298.64,536.001 301.64,536.001L 716.64,536.001 C 719.64,536.001 722.64,533.001 722.64,530.001L 722.64,205.001 C 722.64,202.001 719.64,199.001 716.64,199.001L 301.64,199.001 C 298.64,199.001 295.64,202.001 295.64,205.001Z" style="fill:#FF0000;stroke:#FF0000;opacity:0.333333;"/>
+  <dunnart:node dunnart:type="distribution" dunnart:position="441" dunnart:direction="100" dunnart:sepDistance="55" id="1">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="2" objTwoID="5"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="5" objTwoID="9"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="9" objTwoID="13"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="13" objTwoID="17"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="17" objTwoID="21"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="21" objTwoID="25"/>
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="1" objOneID="25" objTwoID="29"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="295" dunnart:direction="101" dunnart:sepDistance="0" id="8">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="8" objOneID="3" objTwoID="7"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="290" dunnart:direction="101" dunnart:sepDistance="147" id="12">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="12" objOneID="3" objTwoID="11"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="285" dunnart:direction="101" dunnart:sepDistance="189" id="16">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="16" objOneID="3" objTwoID="15"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="280" dunnart:direction="101" dunnart:sepDistance="189" id="20">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="20" objOneID="3" objTwoID="19"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="275" dunnart:direction="101" dunnart:sepDistance="189" id="24">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="24" objOneID="3" objTwoID="23"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="270" dunnart:direction="101" dunnart:sepDistance="168" id="28">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="28" objOneID="3" objTwoID="27"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="265" dunnart:direction="101" dunnart:sepDistance="189" id="32">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="32" objOneID="3" objTwoID="31"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="407" dunnart:direction="101" dunnart:sepDistance="55" id="33">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="33" objOneID="34" objTwoID="37"/>
+  </dunnart:node>
+  <dunnart:node dunnart:type="distribution" dunnart:position="-30" dunnart:direction="100" dunnart:sepDistance="0" id="40">
+    <dunnart:node dunnart:type="constraint" relType="distribution" constraintID="40" objOneID="35" objTwoID="39"/>
+  </dunnart:node>
+  <path dunnart:type="connAvoidPoly" id="62" dunnart:libavoidPath="10 229 -8.16713 -2147483586 8 246 -8.16713 0 0 248 -8.16713 0 0 295.64 -8.16713 0 0 316.64 -8.16713 0 0 337.64 -8.16713 0 0 350.64 -8.16713 0 0 354.001 -8.16713 0 0 354.001 -8.16713 0 0 364.001 -8.16713 62 8 " dunnart:srcID="41" dunnart:srcX="380" dunnart:srcY="46.8329" dunnart:dstID="36" dunnart:dstFlags="52" dunnart:dstX="509.001" dunnart:dstY="46.8329" class="connector" d="M 229,-8.16713 L 307.001,-8.16713 C 310.501,-8.16713 314.001,-8.16713 314.001,-8.16713L 314.001,-8.16713 C 314.001,-8.16713 317.501,-8.16713 321.001,-8.16713L 369.001,-8.16713 " proorigami:residueNames="MET VAL ASN" proorigami:residueSeqNums="1 2 3" proorigami:hovertext="1 MET VAL ASN 3"/>
+  <path dunnart:type="connAvoidPoly" id="63" dunnart:libavoidPath="11 388.001 -8.16713 -2147483585 8 398.001 -8.16713 0 0 405.64 -8.16713 0 0 426.64 -8.16713 0 0 447.64 -8.16713 0 0 460.64 -8.16713 0 0 481.64 -8.16713 0 0 502.64 -8.16713 0 0 506 -8.16713 0 0 506 -8.16713 0 0 516 -8.16713 63 8 " dunnart:srcID="36" dunnart:srcFlags="56" dunnart:srcX="545.001" dunnart:srcY="46.8329" dunnart:dstID="42" dunnart:dstFlags="52" dunnart:dstX="661" dunnart:dstY="46.8329" class="connector" d="M 376.001,-8.16713 L 459,-8.16713 C 462.5,-8.16713 466,-8.16713 466,-8.16713L 466,-8.16713 C 466,-8.16713 469.5,-8.16713 473,-8.16713L 520,-8.16713 " proorigami:residueNames="ARG THR PRO" proorigami:residueSeqNums="6 7 8" proorigami:hovertext="6 ARG THR PRO 8"/>
+  <path dunnart:type="connAvoidPoly" id="64" dunnart:libavoidPath="29 538 -8.16713 -2147483584 8 548 -8.16713 0 0 548 -4 0 0 548 7.83287 0 0 548 12.8329 0 0 548 25.8329 0 0 548 46.8329 0 0 548 49 0 0 548 67.8329 0 0 548 91 0 0 548 199.001 0 0 536.64 199.001 0 0 515.64 199.001 0 0 506 199.001 0 0 502.64 199.001 0 0 481.64 199.001 0 0 460.64 199.001 0 0 447.64 199.001 0 0 426.64 199.001 0 0 405.64 199.001 0 0 398.001 199.001 0 0 392.64 199.001 0 0 371.64 199.001 0 0 354.001 199.001 0 0 350.64 199.001 0 0 337.64 199.001 0 0 337.64 327.001 0 0 316.64 327.001 0 0 316.64 317.001 64 8 " dunnart:srcID="42" dunnart:srcFlags="56" dunnart:srcX="695" dunnart:srcY="46.8329" dunnart:dstID="4" dunnart:dstFlags="50" dunnart:dstX="467.64" dunnart:dstY="378.001" class="connector" d="M 527,-8.16713 L 541,-8.16713 C 544.5,-8.16713 548,-4.66713 548,-1.16713L 548,152.001 C 548,155.501 544.5,159.001 541,159.001L 351.14,159.001 C 347.64,159.001 344.14,162.501 344.14,166.001L 344.14,320.001 C 344.14,323.501 340.64,327.001 337.14,327.001L 323.64,327.001 C 320.14,327.001 316.64,323.501 316.64,320.001L 316.64,270.001 " proorigami:residueNames="SER ASN LEU ASP GLN TYR PRO PHE SER PRO" proorigami:residueSeqNums="13 14 15 16 17 18 19 20 21 22" proorigami:hovertext="13 SER ASN LEU ASP GLN TYR PRO PHE SER PRO 22"/>
+  <path dunnart:type="connAvoidPoly" id="65" dunnart:lineColour="ff0000ff;" dunnart:libavoidPath="7 316.64 209.001 -2147483583 8 316.64 199.001 0 0 337.64 199.001 0 0 350.64 199.001 0 0 354.001 199.001 0 0 371.64 199.001 0 0 371.64 209.001 65 8 " dunnart:srcID="4" dunnart:srcFlags="49" dunnart:srcX="467.64" dunnart:srcY="258.001" dunnart:dstID="6" dunnart:dstFlags="49" dunnart:dstX="522.64" dunnart:dstY="258.001" class="connector" d="M 316.64,263.001 L 316.64,206.001 C 316.64,202.501 320.14,199.001 323.64,199.001L 364.64,199.001 C 368.14,199.001 371.64,202.501 371.64,206.001L 371.64,308.001 " style="stroke:#FF0000;" proorigami:residueNames="PRO GLY" proorigami:residueSeqNums="29 30" proorigami:hovertext="29 PRO GLY 30"/>
+  <path dunnart:type="connAvoidPoly" id="66" dunnart:libavoidPath="14 371.64 421.001 -2147483582 8 371.64 431.001 0 0 371.64 452.001 0 0 371.64 474.001 0 0 392.64 474.001 0 0 398.001 474.001 0 0 405.64 474.001 0 0 410.64 474.001 0 0 426.64 474.001 0 0 442.64 474.001 0 0 447.64 474.001 0 0 460.64 474.001 0 0 481.64 474.001 0 0 481.64 464.001 66 8 " dunnart:srcID="6" dunnart:srcFlags="50" dunnart:srcX="522.64" dunnart:srcY="482.001" dunnart:dstID="14" dunnart:dstFlags="50" dunnart:dstX="632.64" dunnart:dstY="525.001" class="connector" d="M 371.64,315.001 L 371.64,467.001 C 371.64,470.501 375.14,474.001 378.64,474.001L 474.64,474.001 C 478.14,474.001 481.64,470.501 481.64,467.001L 481.64,438.001 " proorigami:residueNames="GLY ASN SER ASP ALA GLU ASP" proorigami:residueSeqNums="42 43 44 45 46 47 48" proorigami:hovertext="42 GLY ASN SER ASP ALA GLU ASP 48"/>
+  <path dunnart:type="connAvoidPoly" id="67" dunnart:lineColour="ff0000ff;" dunnart:libavoidPath="19 481.64 398.001 -2147483581 8 481.64 388.001 0 0 502.64 388.001 0 0 502.64 474.001 0 0 502.64 494.001 0 0 502.64 536.001 0 0 502.64 645 0 0 502.64 679 0 0 502.64 707 0 0 502.64 730 0 0 502.64 760 0 0 502.64 764 0 0 502.64 802 0 0 481.64 802 0 0 460.64 802 0 0 447.64 802 0 0 442.64 802 0 0 426.64 802 0 0 426.64 792 67 8 " dunnart:srcID="14" dunnart:srcFlags="49" dunnart:srcX="632.64" dunnart:srcY="447.001" dunnart:dstID="44" dunnart:dstFlags="50" dunnart:dstX="577.64" dunnart:dstY="853" class="connector" d="M 481.64,431.001 L 481.64,395.001 C 481.64,391.501 485.14,388.001 488.64,388.001L 495.64,388.001 C 499.14,388.001 502.64,391.501 502.64,395.001L 502.64,795 C 502.64,798.5 499.14,802 495.64,802L 433.64,802 C 430.14,802 426.64,798.5 426.64,795L 426.64,788 " style="stroke:#FF0000;" proorigami:residueNames="LEU HIS GLY GLU PRO THR TRP" proorigami:residueSeqNums="53 54 55 56 57 58 59" proorigami:hovertext="53 LEU HIS GLY GLU PRO THR TRP 59"/>
+  <path dunnart:type="connAvoidPoly" id="68" dunnart:libavoidPath="5 426.64 770 -2147483580 8 426.64 760 0 0 426.64 730 0 0 426.64 707 0 0 426.64 697 68 8 " dunnart:srcID="44" dunnart:srcFlags="49" dunnart:srcX="577.64" dunnart:srcY="819" dunnart:dstID="43" dunnart:dstFlags="50" dunnart:dstX="577.64" dunnart:dstY="758" class="connector" d="M 426.64,781 L 426.64,683 " proorigami:residueNames="ARG LYS MET" proorigami:residueSeqNums="64 65 66" proorigami:hovertext="64 ARG LYS MET 66"/>
+  <path dunnart:type="connAvoidPoly" id="69" dunnart:lineColour="ff0000ff;" dunnart:libavoidPath="7 426.64 655 -2147483579 8 426.64 645 0 0 426.64 536.001 0 0 426.64 494.001 0 0 426.64 474.001 0 0 426.64 452.001 0 0 426.64 442.001 69 8 " dunnart:srcID="43" dunnart:srcFlags="49" dunnart:srcX="577.64" dunnart:srcY="704" dunnart:dstID="10" dunnart:dstFlags="50" dunnart:dstX="577.64" dunnart:dstY="503.001" class="connector" d="M 426.64,676 L 426.64,406.001 " style="stroke:#FF0000;" proorigami:residueNames="SER GLY ALA" proorigami:residueSeqNums="73 74 75" proorigami:hovertext="73 SER GLY ALA 75"/>
+  <path dunnart:type="connAvoidPoly" id="70" dunnart:lineColour="ff0000ff;" dunnart:libavoidPath="10 426.64 356.001 -2147483578 8 426.64 346.001 0 0 426.64 199.001 0 0 426.64 91 0 0 426.64 67.8329 0 0 426.64 49 0 0 426.64 46.8329 0 0 405.64 46.8329 0 0 398.001 46.8329 0 0 388.001 46.8329 70 8 " dunnart:srcID="10" dunnart:srcFlags="49" dunnart:srcX="577.64" dunnart:srcY="405.001" dunnart:dstID="38" dunnart:dstFlags="56" dunnart:dstX="545.001" dunnart:dstY="101.833" class="connector" d="M 426.64,399.001 L 426.64,53.8329 C 426.64,50.3329 423.14,46.8329 419.64,46.8329L 383.001,46.8329 " style="stroke:#FF0000;" proorigami:residueNames="ASP PHE PHE GLY PHE GLY LYS SER ASP" proorigami:residueSeqNums="81 82 83 84 85 86 87 88 89" proorigami:hovertext="81 ASP PHE PHE GLY PHE GLY LYS SER ASP 89"/>
+  <path dunnart:type="connAvoidPoly" id="71" dunnart:libavoidPath="8 364.001 46.8329 -2147483577 8 354.001 46.8329 0 0 350.64 46.8329 0 0 337.64 46.8329 0 0 316.64 46.8329 0 0 295.64 46.8329 0 0 248 46.8329 0 0 238 46.8329 71 8 " dunnart:srcID="38" dunnart:srcFlags="52" dunnart:srcX="509.001" dunnart:srcY="101.833" dunnart:dstID="45" dunnart:dstFlags="56" dunnart:dstX="395" dunnart:dstY="101.833" class="connector" d="M 376.001,46.8329 L 238,46.8329 " proorigami:residueNames="VAL ASP" proorigami:residueSeqNums="92 93" proorigami:hovertext="92 VAL ASP 93"/>
+  <path dunnart:type="connAvoidPoly" id="72" dunnart:libavoidPath="5 224 46.8329 -2147483576 8 214 46.8329 0 0 212 46.8329 0 0 161 46.8329 0 0 151 46.8329 72 8 " dunnart:srcID="45" dunnart:srcFlags="52" dunnart:srcX="369" dunnart:srcY="101.833" dunnart:dstID="46" dunnart:dstFlags="56" dunnart:dstX="308" dunnart:dstY="101.833" class="connector" d="M 231,46.8329 L 97,46.8329 " proorigami:residueNames="TYR THR" proorigami:residueSeqNums="97 98" proorigami:hovertext="97 TYR THR 98"/>
+  <path dunnart:type="connAvoidPoly" id="73" dunnart:libavoidPath="34 29 46.8329 -2147483575 8 19 46.8329 0 0 19 62.8329 0 0 19 67.8329 0 0 19 91 0 0 19 199.001 0 0 19 327.001 0 0 19 431.001 0 0 19 452.001 0 0 19 474.001 0 0 19 494.001 0 0 161 494.001 0 0 212 494.001 0 0 214 494.001 0 0 248 494.001 0 0 295.64 494.001 0 0 316.64 494.001 0 0 337.64 494.001 0 0 350.64 494.001 0 0 371.64 494.001 0 0 392.64 494.001 0 0 398.001 494.001 0 0 405.64 494.001 0 0 410.64 494.001 0 0 426.64 494.001 0 0 442.64 494.001 0 0 447.64 494.001 0 0 460.64 494.001 0 0 481.64 494.001 0 0 502.64 494.001 0 0 506 494.001 0 0 515.64 494.001 0 0 536.64 494.001 0 0 536.64 484.001 73 8 " dunnart:srcID="46" dunnart:srcFlags="52" dunnart:srcX="174" dunnart:srcY="101.833" dunnart:dstID="18" dunnart:dstFlags="50" dunnart:dstX="687.64" dunnart:dstY="545.001" class="connector" d="M 90,46.8329 L 26,46.8329 C 22.5,46.8329 19,50.3329 19,53.8329L 19,487.001 C 19,490.501 22.5,494.001 26,494.001L 529.64,494.001 C 533.14,494.001 536.64,490.501 536.64,487.001L 536.64,448.001 " proorigami:residueNames="LEU ASP LEU ARG ASN" proorigami:residueSeqNums="113 114 115 116 117" proorigami:hovertext="113 LEU ASP LEU ARG ASN 117"/>
+  <path dunnart:type="connAvoidPoly" id="74" dunnart:libavoidPath="20 536.64 398.001 -2147483574 8 536.64 388.001 0 0 548 388.001 0 0 557.64 388.001 0 0 570.64 388.001 0 0 570.64 494.001 0 0 570.64 536.001 0 0 570.64 645 0 0 570.64 679 0 0 570.64 707 0 0 570.64 730 0 0 570.64 760 0 0 570.64 764 0 0 570.64 802 0 0 570.64 807 0 0 570.64 815 0 0 570.64 877 0 0 575.64 877 0 0 591.64 877 0 0 591.64 867 74 8 " dunnart:srcID="18" dunnart:srcFlags="49" dunnart:srcX="687.64" dunnart:srcY="447.001" dunnart:dstID="49" dunnart:dstFlags="50" dunnart:dstX="742.64" dunnart:dstY="928" class="connector" d="M 536.64,441.001 L 536.64,395.001 C 536.64,391.501 540.14,388.001 543.64,388.001L 557.14,388.001 C 560.64,388.001 564.14,391.501 564.14,395.001L 564.14,870 C 564.14,873.5 567.64,877 571.14,877L 584.64,877 C 588.14,877 591.64,873.5 591.64,870L 591.64,853 " proorigami:residueNames="GLN ASP" proorigami:residueSeqNums="123 124" proorigami:hovertext="123 GLN ASP 124"/>
+  <path dunnart:type="connAvoidPoly" id="75" dunnart:libavoidPath="6 591.64 825 -2147483573 8 591.64 815 0 0 591.64 807 0 0 591.64 802 0 0 591.64 764 0 0 591.64 754 75 8 " dunnart:srcID="49" dunnart:srcFlags="49" dunnart:srcX="742.64" dunnart:srcY="874" dunnart:dstID="48" dunnart:dstFlags="50" dunnart:dstX="742.64" dunnart:dstY="815" class="connector" d="M 591.64,846 L 591.64,754 " proorigami:residueNames="LEU THR LEU" proorigami:residueSeqNums="131 132 133" proorigami:hovertext="131 LEU THR LEU 133"/>
+  <path dunnart:type="connAvoidPoly" id="76" dunnart:libavoidPath="5 591.64 740 -2147483572 8 591.64 730 0 0 591.64 707 0 0 591.64 679 0 0 591.64 669 76 8 " dunnart:srcID="48" dunnart:srcFlags="49" dunnart:srcX="742.64" dunnart:srcY="789" dunnart:dstID="47" dunnart:dstFlags="50" dunnart:dstX="742.64" dunnart:dstY="730" class="connector" d="M 591.64,747 L 591.64,669 " proorigami:residueNames="ASP" proorigami:residueSeqNums="137" proorigami:hovertext="ASP 137"/>
+  <path dunnart:type="connAvoidPoly" id="77" dunnart:libavoidPath="4 591.64 655 -2147483571 8 591.64 645 0 0 591.64 536.001 0 0 591.64 526.001 77 8 " dunnart:srcID="47" dunnart:srcFlags="49" dunnart:srcX="742.64" dunnart:srcY="704" dunnart:dstID="22" dunnart:dstFlags="50" dunnart:dstX="742.64" dunnart:dstY="587.001" class="connector" d="M 591.64,662 L 591.64,469.001 " proorigami:residueNames="" proorigami:residueSeqNums="" proorigami:hovertext="(140-141)"/>
+  <path dunnart:type="connAvoidPoly" id="78" dunnart:libavoidPath="32 591.64 398.001 -2147483570 8 591.64 388.001 0 0 612.64 388.001 0 0 625.64 388.001 0 0 625.64 515.001 0 0 625.64 536.001 0 0 625.64 645 0 0 625.64 679 0 0 625.64 707 0 0 625.64 730 0 0 625.64 764 0 0 625.64 802 0 0 625.64 807 0 0 625.64 815 0 0 625.64 860 0 0 625.64 877 0 0 625.64 972 0 0 625.64 1025 0 0 625.64 1059 0 0 625.64 1110 0 0 625.64 1192 0 0 625.64 1245 0 0 625.64 1327 0 0 625.64 1380 0 0 625.64 1472 0 0 625.64 1525 0 0 625.64 1567 0 0 625.64 1620 0 0 625.64 1654 0 0 630.64 1654 0 0 646.64 1654 0 0 646.64 1644 78 8 " dunnart:srcID="22" dunnart:srcFlags="49" dunnart:srcX="742.64" dunnart:srcY="447.001" dunnart:dstID="57" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1705" class="connector" d="M 591.64,462.001 L 591.64,395.001 C 591.64,391.501 595.14,388.001 598.64,388.001L 612.14,388.001 C 615.64,388.001 619.14,391.501 619.14,395.001L 619.14,1647 C 619.14,1650.5 622.64,1654 626.14,1654L 639.64,1654 C 643.14,1654 646.64,1650.5 646.64,1647L 646.64,1644 " proorigami:residueNames="ASN ALA CYS LEU MET THR ASP PRO VAL THR GLN" proorigami:residueSeqNums="148 149 150 151 152 153 154 155 156 157 158" proorigami:hovertext="148 ASN ALA CYS LEU MET THR ASP PRO VAL THR GLN 158"/>
+  <path dunnart:type="connAvoidPoly" id="79" dunnart:libavoidPath="4 646.64 1630 -2147483569 8 646.64 1620 0 0 646.64 1567 0 0 646.64 1557 79 8 " dunnart:srcID="57" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1679" dunnart:dstID="56" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1618" class="connector" d="M 646.64,1637 L 646.64,1553 " proorigami:residueNames="SER" proorigami:residueSeqNums="162" proorigami:hovertext="SER 162"/>
+  <path dunnart:type="connAvoidPoly" id="80" dunnart:libavoidPath="4 646.64 1535 -2147483568 8 646.64 1525 0 0 646.64 1472 0 0 646.64 1462 80 8 " dunnart:srcID="56" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1584" dunnart:dstID="55" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1523" class="connector" d="M 646.64,1546 L 646.64,1433 " proorigami:residueNames="GLN PRO ALA ASP GLY" proorigami:residueSeqNums="167 168 169 170 171" proorigami:hovertext="167 GLN PRO ALA ASP GLY 171"/>
+  <path dunnart:type="connAvoidPoly" id="81" dunnart:libavoidPath="4 646.64 1390 -2147483567 8 646.64 1380 0 0 646.64 1327 0 0 646.64 1317 81 8 " dunnart:srcID="55" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1439" dunnart:dstID="54" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1378" class="connector" d="M 646.64,1426 L 646.64,1293 " proorigami:residueNames="THR PRO SER ASP LEU ARG" proorigami:residueSeqNums="181 182 183 184 185 186" proorigami:hovertext="181 THR PRO SER ASP LEU ARG 186"/>
+  <path dunnart:type="connAvoidPoly" id="82" dunnart:libavoidPath="4 646.64 1255 -2147483566 8 646.64 1245 0 0 646.64 1192 0 0 646.64 1182 82 8 " dunnart:srcID="54" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1304" dunnart:dstID="53" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1243" class="connector" d="M 646.64,1286 L 646.64,1158 " proorigami:residueNames="ALA PRO THR LEU THR" proorigami:residueSeqNums="195 196 197 198 199" proorigami:hovertext="195 ALA PRO THR LEU THR 199"/>
+  <path dunnart:type="connAvoidPoly" id="83" dunnart:libavoidPath="4 646.64 1120 -2147483565 8 646.64 1110 0 0 646.64 1059 0 0 646.64 1049 83 8 " dunnart:srcID="53" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1169" dunnart:dstID="52" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1110" class="connector" d="M 646.64,1151 L 646.64,1049 " proorigami:residueNames="ALA PRO PHE PRO ASP" proorigami:residueSeqNums="208 209 210 211 212" proorigami:hovertext="208 ALA PRO PHE PRO ASP 212"/>
+  <path dunnart:type="connAvoidPoly" id="84" dunnart:libavoidPath="4 646.64 1035 -2147483564 8 646.64 1025 0 0 646.64 972 0 0 646.64 962 84 8 " dunnart:srcID="52" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="1084" dunnart:dstID="51" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="1023" class="connector" d="M 646.64,1042 L 646.64,923 " proorigami:residueNames="GLN" proorigami:residueSeqNums="216" proorigami:hovertext="GLN 216"/>
+  <path dunnart:type="connAvoidPoly" id="85" dunnart:libavoidPath="5 646.64 870 -2147483563 8 646.64 860 0 0 646.64 815 0 0 646.64 807 0 0 646.64 797 85 8 " dunnart:srcID="51" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="919" dunnart:dstID="50" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="858" class="connector" d="M 646.64,916 L 646.64,733 " proorigami:residueNames="GLN ARG ASP" proorigami:residueSeqNums="228 229 230" proorigami:hovertext="228 GLN ARG ASP 230"/>
+  <path dunnart:type="connAvoidPoly" id="86" dunnart:libavoidPath="5 646.64 655 -2147483562 8 646.64 645 0 0 646.64 536.001 0 0 646.64 515.001 0 0 646.64 505.001 86 8 " dunnart:srcID="50" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="704" dunnart:dstID="26" dunnart:dstFlags="50" dunnart:dstX="797.64" dunnart:dstY="566.001" class="connector" d="M 646.64,726 L 646.64,448.001 " proorigami:residueNames="ASP TRP ASN GLY" proorigami:residueSeqNums="247 248 249 250" proorigami:hovertext="247 ASP TRP ASN GLY 250"/>
+  <path dunnart:type="connAvoidPoly" id="87" dunnart:libavoidPath="13 646.64 377.001 -2147483561 8 646.64 367.001 0 0 667.64 367.001 0 0 680.64 367.001 0 0 680.64 388.001 0 0 680.64 452.001 0 0 680.64 515.001 0 0 680.64 536.001 0 0 680.64 645 0 0 680.64 747 0 0 685.64 747 0 0 701.64 747 0 0 701.64 737 87 8 " dunnart:srcID="26" dunnart:srcFlags="49" dunnart:srcX="797.64" dunnart:srcY="426.001" dunnart:dstID="58" dunnart:dstFlags="50" dunnart:dstX="852.64" dunnart:dstY="798" class="connector" d="M 646.64,441.001 L 646.64,374.001 C 646.64,370.501 650.14,367.001 653.64,367.001L 667.14,367.001 C 670.64,367.001 674.14,370.501 674.14,374.001L 674.14,740 C 674.14,743.5 677.64,747 681.14,747L 694.64,747 C 698.14,747 701.64,743.5 701.64,740L 701.64,703 " proorigami:residueNames="MET LYS ASP LYS LEU LEU GLY" proorigami:residueSeqNums="258 259 260 261 262 263 264" proorigami:hovertext="258 MET LYS ASP LYS LEU LEU GLY 264"/>
+  <path dunnart:type="connAvoidPoly" id="88" dunnart:libavoidPath="6 701.64 655 -2147483560 8 701.64 645 0 0 701.64 536.001 0 0 701.64 515.001 0 0 701.64 452.001 0 0 701.64 442.001 88 8 " dunnart:srcID="58" dunnart:srcFlags="49" dunnart:srcX="852.64" dunnart:srcY="704" dunnart:dstID="30" dunnart:dstFlags="50" dunnart:dstX="852.64" dunnart:dstY="503.001" class="connector" d="M 701.64,696 L 701.64,427.001 " proorigami:residueNames="ILE ASN GLY CYS PRO GLU PRO" proorigami:residueSeqNums="275 276 277 278 279 280 281" proorigami:hovertext="275 ILE ASN GLY CYS PRO GLU PRO 281"/>
+  <path dunnart:type="connAvoidPoly" id="89" dunnart:libavoidPath="7 701.64 398.001 -2147483559 8 701.64 388.001 0 0 701.64 367.001 0 0 701.64 346.001 0 0 701.64 199.001 0 0 701.64 91 0 0 701.64 81 89 8 " dunnart:srcID="30" dunnart:srcFlags="49" dunnart:srcX="852.64" dunnart:srcY="447.001" dunnart:dstID="59" dunnart:dstFlags="50" dunnart:dstX="852.64" dunnart:dstY="142" class="connector" d="M 701.64,420.001 L 701.64,77 " proorigami:residueNames="ALA ASP ALA GLY HIS PHE" proorigami:residueSeqNums="285 286 287 288 289 290" proorigami:hovertext="285 ALA ASP ALA GLY HIS PHE 290"/>
+  <path dunnart:type="connAvoidPoly" id="90" dunnart:libavoidPath="8 701.64 59 -2147483558 8 701.64 49 0 0 701.64 46.8329 0 0 701.64 25.8329 0 0 701.64 12.8329 0 0 701.64 7.83287 0 0 701.64 -4 0 0 701.64 -14 90 8 " dunnart:srcID="59" dunnart:srcFlags="49" dunnart:srcX="852.64" dunnart:srcY="108" dunnart:dstID="60" dunnart:dstFlags="50" dunnart:dstX="852.64" dunnart:dstY="47" class="connector" d="M 701.64,70 L 701.64,-63 " proorigami:residueNames="" proorigami:residueSeqNums="" proorigami:hovertext="(294-295)"/>
+  <path dunnart:type="connAvoidPoly" id="91" dunnart:libavoidPath="4 701.64 -126 -2147483557 8 701.64 -136 0 0 701.64 -189 0 0 701.64 -206 91 8 " dunnart:srcID="60" dunnart:srcFlags="49" dunnart:srcX="852.64" dunnart:srcY="-77" dunnart:dstID="61" dunnart:dstX="852.64" dunnart:dstY="-151" class="connector" d="M 701.64,-70 L 701.64,-199 " proorigami:residueNames="GLU THR GLU" proorigami:residueSeqNums="308 309 310" proorigami:hovertext="308 GLU THR GLU 310"/>
+  <rect dunnart:type="rect" id="41" dunnart:xPos="213" dunnart:yPos="-24" dunnart:width="32" dunnart:height="32" dunnart:label="N" dunnart:fillColour="0000ffff;" dunnart:detailLevel="0" class="shape" style="fill:#0000FF;" proorigami:chainId="A" proorigami:domainId="" proorigami:hovertext="chain A" onclick="handleClickEvent(evt)" width="26" height="26" x="216" y="-21.16712776"/>
+  <text id="text41" class="tLabel" x="229" y="-4.16713">
+    <tspan id="tspan41n0" class="tsLabel" x="229" y="-4.16713" sodipodi:role="line">N</tspan>
+  </text>
+  <path dunnart:reversed="1" dunnart:type="bioStrand" id="36" dunnart:xPos="355" dunnart:yPos="-28" dunnart:width="42" dunnart:height="40" dunnart:label="1" dunnart:fillColour="0021ffff;" dunnart:detailLevel="0" class="shape" style="fill:#0021FF;" proorigami:residueNames="ALA ILE" proorigami:residueSeqNums="4 5" proorigami:sseseqnum="1" proorigami:chainId="A" proorigami:sheetId="A" proorigami:domainId="" proorigami:hovertext="STRAND_A_1" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="5" dunnart:tailLabel="4" d="M 393.0010071,-8.667127609 L 376.5010071,-25.16712761 L 376.5010071,-16.91712761 L 358.0010071,-16.91712761 L 358.0010071,-0.4171277583 L 376.5010071,-0.4171277583 L 376.5010071,7.832872391 L 393.0010071,-8.667127609 z"/>
+  <text id="text36" class="tLabel" x="376.001" y="-4.16713">
+    <tspan id="tspan36n0" class="tsLabel" x="376.001" y="-4.16713" sodipodi:role="line">1</tspan>
+  </text>
+  <text id="texth36" class="tLabel" x="387.001" y="-4.16713">
+    <tspan id="tspanh36n0" class="tshtLabel" x="387.001" y="-4.16713" sodipodi:role="line">5</tspan>
+  </text>
+  <text id="textt36" class="tLabel" x="365.001" y="-4.16713">
+    <tspan id="tspant36n0" class="tshtLabel" x="365.001" y="-4.16713" sodipodi:role="line">4</tspan>
+  </text>
+  <rect dunnart:reversed="1" dunnart:type="bioHelix" id="42" dunnart:xPos="507" dunnart:yPos="-23" dunnart:width="40" dunnart:height="30" dunnart:label="2" dunnart:fillColour="0042ffff;" dunnart:detailLevel="0" class="shape" style="fill:#0042FF;" proorigami:reversed="1" proorigami:residueNames="ASP GLN ARG PHE" proorigami:residueSeqNums="9 10 11 12" proorigami:helixType="310" proorigami:sseseqnum="2" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_1" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="12" dunnart:tailLabel="9" width="34" height="24" x="510" y="-20.16712776" rx="6" ry="12"/>
+  <text id="text42" class="tLabel" x="531.5" y="-4.16713">
+    <tspan id="tspan42n0" class="tsLabel" x="531.5" y="-4.16713" sodipodi:role="line">2</tspan>
+  </text>
+  <rect width="12" height="24" x="510" y="-20.16712776" rx="6" ry="12" class="shape" style="fill:#0042FF;"/>
+  <text id="texth42" class="tLabel" x="558" y="-4.16713">
+    <tspan id="tspanh42n0" class="tshtLabel" x="558" y="-4.16713" sodipodi:role="line">12</tspan>
+  </text>
+  <text id="textt42" class="tLabel" x="526" y="-4.16713">
+    <tspan id="tspant42n0" class="tshtLabel" x="526" y="-4.16713" sodipodi:role="line">9</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="4" dunnart:xPos="296" dunnart:yPos="200" dunnart:width="40" dunnart:height="126" dunnart:label="3" dunnart:fillColour="0063ffff;" dunnart:detailLevel="0" class="shape" style="fill:#0063FF;" proorigami:residueNames="ASN TYR LEU ASP ASP LEU" proorigami:residueSeqNums="23 24 25 26 27 28" proorigami:sseseqnum="3" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_2" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="28" dunnart:tailLabel="23" d="M 316.1395569,203.0010071 L 332.6395569,219.5010071 L 324.3895569,219.5010071 L 324.3895569,322.0010071 L 307.8895569,322.0010071 L 307.8895569,219.5010071 L 299.6395569,219.5010071 L 316.1395569,203.0010071 z"/>
+  <text id="text4" class="tLabel" x="316.64" y="267.001">
+    <tspan id="tspan4n0" class="tsLabel" x="316.64" y="267.001" sodipodi:role="line">3</tspan>
+  </text>
+  <text id="texth4" class="tLabel" x="316.64" y="221.001">
+    <tspan id="tspanh4n0" class="tshtLabel" x="316.64" y="221.001" sodipodi:role="line">28</tspan>
+  </text>
+  <text id="textt4" class="tLabel" x="316.64" y="316.001">
+    <tspan id="tspant4n0" class="tshtLabel" x="316.64" y="316.001" sodipodi:role="line">23</tspan>
+  </text>
+  <path dunnart:reversed="1" dunnart:type="bioStrand" id="6" dunnart:xPos="351" dunnart:yPos="200" dunnart:width="40" dunnart:height="230" dunnart:label="4" dunnart:fillColour="0084ffff;" dunnart:detailLevel="0" class="shape" style="fill:#0084FF;" proorigami:residueNames="TYR PRO GLY LEU ARG ALA HIS TYR LEU ASP GLU" proorigami:residueSeqNums="31 32 33 34 35 36 37 38 39 40 41" proorigami:sseseqnum="4" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_3" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="41" dunnart:tailLabel="31" d="M 371.1395569,426.0010071 L 354.6395569,409.5010071 L 362.8895569,409.5010071 L 362.8895569,203.0010071 L 379.3895569,203.0010071 L 379.3895569,409.5010071 L 387.6395569,409.5010071 L 371.1395569,426.0010071 z"/>
+  <text id="text6" class="tLabel" x="371.64" y="319.001">
+    <tspan id="tspan6n0" class="tsLabel" x="371.64" y="319.001" sodipodi:role="line">4</tspan>
+  </text>
+  <text id="texth6" class="tLabel" x="371.64" y="420.001">
+    <tspan id="tspanh6n0" class="tshtLabel" x="371.64" y="420.001" sodipodi:role="line">41</tspan>
+  </text>
+  <text id="textt6" class="tLabel" x="371.64" y="221.001">
+    <tspan id="tspant6n0" class="tshtLabel" x="371.64" y="221.001" sodipodi:role="line">31</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="14" dunnart:xPos="461" dunnart:yPos="389" dunnart:width="40" dunnart:height="84" dunnart:label="5" dunnart:fillColour="00a5ffff;" dunnart:detailLevel="0" class="shape" style="fill:#00A5FF;" proorigami:residueNames="VAL PHE LEU CYS" proorigami:residueSeqNums="49 50 51 52" proorigami:sseseqnum="5" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_4" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="52" dunnart:tailLabel="49" d="M 481.1395569,392.0010071 L 497.6395569,408.5010071 L 489.3895569,408.5010071 L 489.3895569,469.0010071 L 472.8895569,469.0010071 L 472.8895569,408.5010071 L 464.6395569,408.5010071 L 481.1395569,392.0010071 z"/>
+  <text id="text14" class="tLabel" x="481.64" y="435.001">
+    <tspan id="tspan14n0" class="tsLabel" x="481.64" y="435.001" sodipodi:role="line">5</tspan>
+  </text>
+  <text id="texth14" class="tLabel" x="481.64" y="410.001">
+    <tspan id="tspanh14n0" class="tshtLabel" x="481.64" y="410.001" sodipodi:role="line">52</tspan>
+  </text>
+  <text id="textt14" class="tLabel" x="481.64" y="463.001">
+    <tspan id="tspant14n0" class="tshtLabel" x="481.64" y="463.001" sodipodi:role="line">49</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="44" dunnart:xPos="411" dunnart:yPos="761" dunnart:width="30" dunnart:height="40" dunnart:label="6" dunnart:fillColour="00c5ffff;" dunnart:detailLevel="0" class="shape" style="fill:#00C5FF;" proorigami:reversed="0" proorigami:residueNames="SER TYR LEU TYR" proorigami:residueSeqNums="60 61 62 63" proorigami:helixType="310" proorigami:sseseqnum="6" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_2" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="63" dunnart:tailLabel="60" width="24" height="34" x="414.6395635" y="764" rx="12" ry="6"/>
+  <text id="text44" class="tLabel" x="426.64" y="789.5">
+    <tspan id="tspan44n0" class="tsLabel" x="426.64" y="789.5" sodipodi:role="line">6</tspan>
+  </text>
+  <rect width="24" height="12" x="414.6395635" y="764" rx="12" ry="6" class="shape" style="fill:#00C5FF;"/>
+  <text id="texth44" class="tLabel" x="426.64" y="761">
+    <tspan id="tspanh44n0" class="tshtLabel" x="426.64" y="761" sodipodi:role="line">63</tspan>
+  </text>
+  <text id="textt44" class="tLabel" x="426.64" y="810">
+    <tspan id="tspant44n0" class="tshtLabel" x="426.64" y="810" sodipodi:role="line">60</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="43" dunnart:xPos="411" dunnart:yPos="646" dunnart:width="30" dunnart:height="60" dunnart:label="7" dunnart:fillColour="00e6ffff;" dunnart:detailLevel="0" class="shape" style="fill:#00E6FF;" proorigami:reversed="0" proorigami:residueNames="ILE PRO VAL PHE ALA GLU" proorigami:residueSeqNums="67 68 69 70 71 72" proorigami:helixType="alpha" proorigami:sseseqnum="7" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_3" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="72" dunnart:tailLabel="67" width="24" height="54" x="414.6395635" y="649" rx="12" ry="6"/>
+  <text id="text43" class="tLabel" x="426.64" y="684.5">
+    <tspan id="tspan43n0" class="tsLabel" x="426.64" y="684.5" sodipodi:role="line">7</tspan>
+  </text>
+  <rect width="24" height="12" x="414.6395635" y="649" rx="12" ry="6" class="shape" style="fill:#00E6FF;"/>
+  <text id="texth43" class="tLabel" x="426.64" y="676">
+    <tspan id="tspanh43n0" class="tshtLabel" x="426.64" y="676" sodipodi:role="line">72</tspan>
+  </text>
+  <text id="textt43" class="tLabel" x="426.64" y="696">
+    <tspan id="tspant43n0" class="tshtLabel" x="426.64" y="696" sodipodi:role="line">67</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="10" dunnart:xPos="406" dunnart:yPos="347" dunnart:width="40" dunnart:height="104" dunnart:label="8" dunnart:fillColour="00fff7ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FFF7;" proorigami:residueNames="ARG VAL ILE ALA PRO" proorigami:residueSeqNums="76 77 78 79 80" proorigami:sseseqnum="8" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_5" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="80" dunnart:tailLabel="76" d="M 426.1395569,350.0010071 L 442.6395569,366.5010071 L 434.3895569,366.5010071 L 434.3895569,447.0010071 L 417.8895569,447.0010071 L 417.8895569,366.5010071 L 409.6395569,366.5010071 L 426.1395569,350.0010071 z"/>
+  <text id="text10" class="tLabel" x="426.64" y="403.001">
+    <tspan id="tspan10n0" class="tsLabel" x="426.64" y="403.001" sodipodi:role="line">8</tspan>
+  </text>
+  <text id="texth10" class="tLabel" x="426.64" y="368.001">
+    <tspan id="tspanh10n0" class="tshtLabel" x="426.64" y="368.001" sodipodi:role="line">80</tspan>
+  </text>
+  <text id="textt10" class="tLabel" x="426.64" y="441.001">
+    <tspan id="tspant10n0" class="tshtLabel" x="426.64" y="441.001" sodipodi:role="line">76</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="38" dunnart:xPos="355" dunnart:yPos="26" dunnart:width="42" dunnart:height="40" dunnart:label="9" dunnart:fillColour="00ffd6ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FFD6;" proorigami:residueNames="LYS PRO" proorigami:residueSeqNums="90 91" proorigami:sseseqnum="9" proorigami:chainId="A" proorigami:sheetId="A" proorigami:domainId="" proorigami:hovertext="STRAND_A_6" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="91" dunnart:tailLabel="90" d="M 358.0010071,46.33287048 L 374.5010071,62.83287048 L 374.5010071,54.58287048 L 393.0010071,54.58287048 L 393.0010071,38.08287048 L 374.5010071,38.08287048 L 374.5010071,29.83287239 L 358.0010071,46.33287048 z"/>
+  <text id="text38" class="tLabel" x="376.001" y="50.8329">
+    <tspan id="tspan38n0" class="tsLabel" x="376.001" y="50.8329" sodipodi:role="line">9</tspan>
+  </text>
+  <text id="texth38" class="tLabel" x="344.001" y="50.8329">
+    <tspan id="tspanh38n0" class="tshtLabel" x="344.001" y="50.8329" sodipodi:role="line">91</tspan>
+  </text>
+  <text id="textt38" class="tLabel" x="408.001" y="50.8329">
+    <tspan id="tspant38n0" class="tshtLabel" x="408.001" y="50.8329" sodipodi:role="line">90</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="45" dunnart:xPos="215" dunnart:yPos="31" dunnart:width="32" dunnart:height="30" dunnart:label="10" dunnart:fillColour="00ffb5ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FFB5;" proorigami:reversed="0" proorigami:residueNames="GLU GLU ASP" proorigami:residueSeqNums="94 95 96" proorigami:helixType="310" proorigami:sseseqnum="10" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_4" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="96" dunnart:tailLabel="94" width="26" height="24" x="218" y="34.83287224" rx="6" ry="12"/>
+  <text id="text45" class="tLabel" x="235.5" y="50.8329">
+    <tspan id="tspan45n0" class="tsLabel" x="235.5" y="50.8329" sodipodi:role="line">10</tspan>
+  </text>
+  <rect width="12" height="24" x="218" y="34.83287224" rx="6" ry="12" class="shape" style="fill:#00FFB5;"/>
+  <text id="texth45" class="tLabel" x="213" y="50.8329">
+    <tspan id="tspanh45n0" class="tshtLabel" x="213" y="50.8329" sodipodi:role="line">96</tspan>
+  </text>
+  <text id="textt45" class="tLabel" x="258" y="50.8329">
+    <tspan id="tspant45n0" class="tshtLabel" x="258" y="50.8329" sodipodi:role="line">94</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="46" dunnart:xPos="20" dunnart:yPos="31" dunnart:width="140" dunnart:height="30" dunnart:label="11" dunnart:fillColour="00ff94ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FF94;" proorigami:reversed="0" proorigami:residueNames="PHE GLU PHE HIS ARG ASN PHE LEU LEU ALA LEU ILE GLU ARG" proorigami:residueSeqNums="99 100 101 102 103 104 105 106 107 108 109 110 111 112" proorigami:helixType="alpha" proorigami:sseseqnum="11" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_5" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="112" dunnart:tailLabel="99" width="134" height="24" x="23" y="34.83287224" rx="6" ry="12"/>
+  <text id="text46" class="tLabel" x="94.5" y="50.8329">
+    <tspan id="tspan46n0" class="tsLabel" x="94.5" y="50.8329" sodipodi:role="line">11</tspan>
+  </text>
+  <rect width="12" height="24" x="23" y="34.83287224" rx="6" ry="12" class="shape" style="fill:#00FF94;"/>
+  <text id="texth46" class="tLabel" x="53" y="50.8329">
+    <tspan id="tspanh46n0" class="tshtLabel" x="53" y="50.8329" sodipodi:role="line">112</tspan>
+  </text>
+  <text id="textt46" class="tLabel" x="143" y="50.8329">
+    <tspan id="tspant46n0" class="tshtLabel" x="143" y="50.8329" sodipodi:role="line">99</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="18" dunnart:xPos="516" dunnart:yPos="389" dunnart:width="40" dunnart:height="104" dunnart:label="12" dunnart:fillColour="00ff73ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FF73;" proorigami:residueNames="ILE THR LEU VAL VAL" proorigami:residueSeqNums="118 119 120 121 122" proorigami:sseseqnum="12" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_7" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="122" dunnart:tailLabel="118" d="M 536.1395874,392.0010071 L 552.6395874,408.5010071 L 544.3895874,408.5010071 L 544.3895874,489.0010071 L 527.8895874,489.0010071 L 527.8895874,408.5010071 L 519.6395874,408.5010071 L 536.1395874,392.0010071 z"/>
+  <text id="text18" class="tLabel" x="536.64" y="445.001">
+    <tspan id="tspan18n0" class="tsLabel" x="536.64" y="445.001" sodipodi:role="line">12</tspan>
+  </text>
+  <text id="texth18" class="tLabel" x="536.64" y="410.001">
+    <tspan id="tspanh18n0" class="tshtLabel" x="536.64" y="410.001" sodipodi:role="line">122</tspan>
+  </text>
+  <text id="textt18" class="tLabel" x="536.64" y="483.001">
+    <tspan id="tspant18n0" class="tshtLabel" x="536.64" y="483.001" sodipodi:role="line">118</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="49" dunnart:xPos="576" dunnart:yPos="816" dunnart:width="30" dunnart:height="60" dunnart:label="13" dunnart:fillColour="00ff52ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FF52;" proorigami:reversed="0" proorigami:residueNames="TRP GLY GLY PHE LEU GLY" proorigami:residueSeqNums="125 126 127 128 129 130" proorigami:helixType="alpha" proorigami:sseseqnum="13" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_6" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="130" dunnart:tailLabel="125" width="24" height="54" x="579.6395635" y="819" rx="12" ry="6"/>
+  <text id="text49" class="tLabel" x="591.64" y="854.5">
+    <tspan id="tspan49n0" class="tsLabel" x="591.64" y="854.5" sodipodi:role="line">13</tspan>
+  </text>
+  <rect width="24" height="12" x="579.6395635" y="819" rx="12" ry="6" class="shape" style="fill:#00FF52;"/>
+  <text id="texth49" class="tLabel" x="591.64" y="846">
+    <tspan id="tspanh49n0" class="tshtLabel" x="591.64" y="846" sodipodi:role="line">130</tspan>
+  </text>
+  <text id="textt49" class="tLabel" x="591.64" y="866">
+    <tspan id="tspant49n0" class="tshtLabel" x="591.64" y="866" sodipodi:role="line">125</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="48" dunnart:xPos="576" dunnart:yPos="731" dunnart:width="30" dunnart:height="32" dunnart:label="14" dunnart:fillColour="00ff31ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FF31;" proorigami:reversed="0" proorigami:residueNames="PRO MET ALA" proorigami:residueSeqNums="134 135 136" proorigami:helixType="310" proorigami:sseseqnum="14" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_7" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="136" dunnart:tailLabel="134" width="24" height="26" x="579.6395635" y="734" rx="12" ry="6"/>
+  <text id="text48" class="tLabel" x="591.64" y="755.5">
+    <tspan id="tspan48n0" class="tsLabel" x="591.64" y="755.5" sodipodi:role="line">14</tspan>
+  </text>
+  <rect width="24" height="12" x="579.6395635" y="734" rx="12" ry="6" class="shape" style="fill:#00FF31;"/>
+  <text id="texth48" class="tLabel" x="591.64" y="731">
+    <tspan id="tspanh48n0" class="tshtLabel" x="591.64" y="731" sodipodi:role="line">136</tspan>
+  </text>
+  <text id="textt48" class="tLabel" x="591.64" y="772">
+    <tspan id="tspant48n0" class="tshtLabel" x="591.64" y="772" sodipodi:role="line">134</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="47" dunnart:xPos="576" dunnart:yPos="646" dunnart:width="30" dunnart:height="32" dunnart:label="15" dunnart:fillColour="00ff10ff;" dunnart:detailLevel="0" class="shape" style="fill:#00FF10;" proorigami:reversed="0" proorigami:residueNames="PRO SER ARG" proorigami:residueSeqNums="138 139 140" proorigami:helixType="310" proorigami:sseseqnum="15" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_8" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="140" dunnart:tailLabel="138" width="24" height="26" x="579.6395635" y="649" rx="12" ry="6"/>
+  <text id="text47" class="tLabel" x="591.64" y="670.5">
+    <tspan id="tspan47n0" class="tsLabel" x="591.64" y="670.5" sodipodi:role="line">15</tspan>
+  </text>
+  <rect width="24" height="12" x="579.6395635" y="649" rx="12" ry="6" class="shape" style="fill:#00FF10;"/>
+  <text id="texth47" class="tLabel" x="591.64" y="646">
+    <tspan id="tspanh47n0" class="tshtLabel" x="591.64" y="646" sodipodi:role="line">140</tspan>
+  </text>
+  <text id="textt47" class="tLabel" x="591.64" y="687">
+    <tspan id="tspant47n0" class="tshtLabel" x="591.64" y="687" sodipodi:role="line">138</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="22" dunnart:xPos="571" dunnart:yPos="389" dunnart:width="40" dunnart:height="146" dunnart:label="16" dunnart:fillColour="10ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#10FF00;" proorigami:residueNames="PHE LYS ARG LEU ILE ILE MET" proorigami:residueSeqNums="141 142 143 144 145 146 147" proorigami:sseseqnum="16" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_8" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="147" dunnart:tailLabel="141" d="M 591.1395874,392.0010071 L 607.6395874,408.5010071 L 599.3895874,408.5010071 L 599.3895874,531.0009766 L 582.8895874,531.0009766 L 582.8895874,408.5010071 L 574.6395874,408.5010071 L 591.1395874,392.0010071 z"/>
+  <text id="text22" class="tLabel" x="591.64" y="466.001">
+    <tspan id="tspan22n0" class="tsLabel" x="591.64" y="466.001" sodipodi:role="line">16</tspan>
+  </text>
+  <text id="texth22" class="tLabel" x="591.64" y="410.001">
+    <tspan id="tspanh22n0" class="tshtLabel" x="591.64" y="410.001" sodipodi:role="line">147</tspan>
+  </text>
+  <text id="textt22" class="tLabel" x="591.64" y="525.001">
+    <tspan id="tspant22n0" class="tshtLabel" x="591.64" y="525.001" sodipodi:role="line">141</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="57" dunnart:xPos="631" dunnart:yPos="1621" dunnart:width="30" dunnart:height="32" dunnart:label="17" dunnart:fillColour="31ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#31FF00;" proorigami:reversed="0" proorigami:residueNames="PRO ALA PHE" proorigami:residueSeqNums="159 160 161" proorigami:helixType="310" proorigami:sseseqnum="17" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_9" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="161" dunnart:tailLabel="159" width="24" height="26" x="634.6395635" y="1624" rx="12" ry="6"/>
+  <text id="text57" class="tLabel" x="646.64" y="1645.5">
+    <tspan id="tspan57n0" class="tsLabel" x="646.64" y="1645.5" sodipodi:role="line">17</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1624" rx="12" ry="6" class="shape" style="fill:#31FF00;"/>
+  <text id="texth57" class="tLabel" x="646.64" y="1621">
+    <tspan id="tspanh57n0" class="tshtLabel" x="646.64" y="1621" sodipodi:role="line">161</tspan>
+  </text>
+  <text id="textt57" class="tLabel" x="646.64" y="1662">
+    <tspan id="tspant57n0" class="tshtLabel" x="646.64" y="1662" sodipodi:role="line">159</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="56" dunnart:xPos="631" dunnart:yPos="1526" dunnart:width="30" dunnart:height="40" dunnart:label="18" dunnart:fillColour="52ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#52FF00;" proorigami:reversed="0" proorigami:residueNames="ALA PHE VAL THR" proorigami:residueSeqNums="163 164 165 166" proorigami:helixType="alpha" proorigami:sseseqnum="18" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_10" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="166" dunnart:tailLabel="163" width="24" height="34" x="634.6395635" y="1529" rx="12" ry="6"/>
+  <text id="text56" class="tLabel" x="646.64" y="1554.5">
+    <tspan id="tspan56n0" class="tsLabel" x="646.64" y="1554.5" sodipodi:role="line">18</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1529" rx="12" ry="6" class="shape" style="fill:#52FF00;"/>
+  <text id="texth56" class="tLabel" x="646.64" y="1526">
+    <tspan id="tspanh56n0" class="tshtLabel" x="646.64" y="1526" sodipodi:role="line">166</tspan>
+  </text>
+  <text id="textt56" class="tLabel" x="646.64" y="1575">
+    <tspan id="tspant56n0" class="tshtLabel" x="646.64" y="1575" sodipodi:role="line">163</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="55" dunnart:xPos="631" dunnart:yPos="1381" dunnart:width="30" dunnart:height="90" dunnart:label="19" dunnart:fillColour="73ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#73FF00;" proorigami:reversed="0" proorigami:residueNames="PHE THR ALA TRP LYS TYR ASP LEU VAL" proorigami:residueSeqNums="172 173 174 175 176 177 178 179 180" proorigami:helixType="alpha" proorigami:sseseqnum="19" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_11" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="180" dunnart:tailLabel="172" width="24" height="84" x="634.6395635" y="1384" rx="12" ry="6"/>
+  <text id="text55" class="tLabel" x="646.64" y="1434.5">
+    <tspan id="tspan55n0" class="tsLabel" x="646.64" y="1434.5" sodipodi:role="line">19</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1384" rx="12" ry="6" class="shape" style="fill:#73FF00;"/>
+  <text id="texth55" class="tLabel" x="646.64" y="1411">
+    <tspan id="tspanh55n0" class="tshtLabel" x="646.64" y="1411" sodipodi:role="line">180</tspan>
+  </text>
+  <text id="textt55" class="tLabel" x="646.64" y="1461">
+    <tspan id="tspant55n0" class="tshtLabel" x="646.64" y="1461" sodipodi:role="line">172</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="54" dunnart:xPos="631" dunnart:yPos="1246" dunnart:width="30" dunnart:height="80" dunnart:label="20" dunnart:fillColour="94ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#94FF00;" proorigami:reversed="0" proorigami:residueNames="LEU ASP GLN PHE MET LYS ARG TRP" proorigami:residueSeqNums="187 188 189 190 191 192 193 194" proorigami:helixType="alpha" proorigami:sseseqnum="20" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_12" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="194" dunnart:tailLabel="187" width="24" height="74" x="634.6395635" y="1249" rx="12" ry="6"/>
+  <text id="text54" class="tLabel" x="646.64" y="1294.5">
+    <tspan id="tspan54n0" class="tsLabel" x="646.64" y="1294.5" sodipodi:role="line">20</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1249" rx="12" ry="6" class="shape" style="fill:#94FF00;"/>
+  <text id="texth54" class="tLabel" x="646.64" y="1276">
+    <tspan id="tspanh54n0" class="tshtLabel" x="646.64" y="1276" sodipodi:role="line">194</tspan>
+  </text>
+  <text id="textt54" class="tLabel" x="646.64" y="1316">
+    <tspan id="tspant54n0" class="tshtLabel" x="646.64" y="1316" sodipodi:role="line">187</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="53" dunnart:xPos="631" dunnart:yPos="1111" dunnart:width="30" dunnart:height="80" dunnart:label="21" dunnart:fillColour="b5ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#B5FF00;" proorigami:reversed="0" proorigami:residueNames="GLU ALA GLU ALA SER ALA TYR ALA" proorigami:residueSeqNums="200 201 202 203 204 205 206 207" proorigami:helixType="alpha" proorigami:sseseqnum="21" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_13" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="207" dunnart:tailLabel="200" width="24" height="74" x="634.6395635" y="1114" rx="12" ry="6"/>
+  <text id="text53" class="tLabel" x="646.64" y="1159.5">
+    <tspan id="tspan53n0" class="tsLabel" x="646.64" y="1159.5" sodipodi:role="line">21</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1114" rx="12" ry="6" class="shape" style="fill:#B5FF00;"/>
+  <text id="texth53" class="tLabel" x="646.64" y="1141">
+    <tspan id="tspanh53n0" class="tshtLabel" x="646.64" y="1141" sodipodi:role="line">207</tspan>
+  </text>
+  <text id="textt53" class="tLabel" x="646.64" y="1181">
+    <tspan id="tspant53n0" class="tshtLabel" x="646.64" y="1181" sodipodi:role="line">200</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="52" dunnart:xPos="631" dunnart:yPos="1026" dunnart:width="30" dunnart:height="32" dunnart:label="22" dunnart:fillColour="d6ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#D6FF00;" proorigami:reversed="0" proorigami:residueNames="THR SER TYR" proorigami:residueSeqNums="213 214 215" proorigami:helixType="310" proorigami:sseseqnum="22" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_14" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="215" dunnart:tailLabel="213" width="24" height="26" x="634.6395635" y="1029" rx="12" ry="6"/>
+  <text id="text52" class="tLabel" x="646.64" y="1050.5">
+    <tspan id="tspan52n0" class="tsLabel" x="646.64" y="1050.5" sodipodi:role="line">22</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="1029" rx="12" ry="6" class="shape" style="fill:#D6FF00;"/>
+  <text id="texth52" class="tLabel" x="646.64" y="1026">
+    <tspan id="tspanh52n0" class="tshtLabel" x="646.64" y="1026" sodipodi:role="line">215</tspan>
+  </text>
+  <text id="textt52" class="tLabel" x="646.64" y="1067">
+    <tspan id="tspant52n0" class="tshtLabel" x="646.64" y="1067" sodipodi:role="line">213</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="51" dunnart:xPos="631" dunnart:yPos="861" dunnart:width="30" dunnart:height="110" dunnart:label="23" dunnart:fillColour="f7ff00ff;" dunnart:detailLevel="0" class="shape" style="fill:#F7FF00;" proorigami:reversed="0" proorigami:residueNames="ALA GLY VAL ARG LYS PHE PRO LYS MET VAL ALA" proorigami:residueSeqNums="217 218 219 220 221 222 223 224 225 226 227" proorigami:helixType="alpha" proorigami:sseseqnum="23" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_15" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="227" dunnart:tailLabel="217" width="24" height="104" x="634.6395635" y="864" rx="12" ry="6"/>
+  <text id="text51" class="tLabel" x="646.64" y="924.5">
+    <tspan id="tspan51n0" class="tsLabel" x="646.64" y="924.5" sodipodi:role="line">23</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="864" rx="12" ry="6" class="shape" style="fill:#F7FF00;"/>
+  <text id="texth51" class="tLabel" x="646.64" y="891">
+    <tspan id="tspanh51n0" class="tshtLabel" x="646.64" y="891" sodipodi:role="line">227</tspan>
+  </text>
+  <text id="textt51" class="tLabel" x="646.64" y="961">
+    <tspan id="tspant51n0" class="tshtLabel" x="646.64" y="961" sodipodi:role="line">217</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="50" dunnart:xPos="631" dunnart:yPos="646" dunnart:width="30" dunnart:height="160" dunnart:label="24" dunnart:fillColour="ffe600ff;" dunnart:detailLevel="0" class="shape" style="fill:#FFE600;" proorigami:reversed="0" proorigami:residueNames="GLN ALA CYS ILE ASP ILE SER THR GLU ALA ILE SER PHE TRP GLN ASN" proorigami:residueSeqNums="231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246" proorigami:helixType="alpha" proorigami:sseseqnum="24" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_16" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="246" dunnart:tailLabel="231" width="24" height="154" x="634.6395635" y="649" rx="12" ry="6"/>
+  <text id="text50" class="tLabel" x="646.64" y="734.5">
+    <tspan id="tspan50n0" class="tsLabel" x="646.64" y="734.5" sodipodi:role="line">24</tspan>
+  </text>
+  <rect width="24" height="12" x="634.6395635" y="649" rx="12" ry="6" class="shape" style="fill:#FFE600;"/>
+  <text id="texth50" class="tLabel" x="646.64" y="676">
+    <tspan id="tspanh50n0" class="tshtLabel" x="646.64" y="676" sodipodi:role="line">246</tspan>
+  </text>
+  <text id="textt50" class="tLabel" x="646.64" y="796">
+    <tspan id="tspant50n0" class="tshtLabel" x="646.64" y="796" sodipodi:role="line">231</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="26" dunnart:xPos="626" dunnart:yPos="368" dunnart:width="40" dunnart:height="146" dunnart:label="25" dunnart:fillColour="ffc500ff;" dunnart:detailLevel="0" class="shape" style="fill:#FFC500;" proorigami:residueNames="GLN THR PHE MET ALA ILE GLY" proorigami:residueSeqNums="251 252 253 254 255 256 257" proorigami:sseseqnum="25" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_9" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="257" dunnart:tailLabel="251" d="M 646.1395874,371.0010071 L 662.6395874,387.5010071 L 654.3895874,387.5010071 L 654.3895874,510.0010071 L 637.8895874,510.0010071 L 637.8895874,387.5010071 L 629.6395874,387.5010071 L 646.1395874,371.0010071 z"/>
+  <text id="text26" class="tLabel" x="646.64" y="445.001">
+    <tspan id="tspan26n0" class="tsLabel" x="646.64" y="445.001" sodipodi:role="line">25</tspan>
+  </text>
+  <text id="texth26" class="tLabel" x="646.64" y="389.001">
+    <tspan id="tspanh26n0" class="tshtLabel" x="646.64" y="389.001" sodipodi:role="line">257</tspan>
+  </text>
+  <text id="textt26" class="tLabel" x="646.64" y="504.001">
+    <tspan id="tspant26n0" class="tshtLabel" x="646.64" y="504.001" sodipodi:role="line">251</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="58" dunnart:xPos="686" dunnart:yPos="646" dunnart:width="30" dunnart:height="100" dunnart:label="26" dunnart:fillColour="ffa500ff;" dunnart:detailLevel="0" class="shape" style="fill:#FFA500;" proorigami:reversed="0" proorigami:residueNames="PRO ASP VAL MET TYR PRO MET LYS ALA LEU" proorigami:residueSeqNums="265 266 267 268 269 270 271 272 273 274" proorigami:helixType="alpha" proorigami:sseseqnum="26" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_17" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="274" dunnart:tailLabel="265" width="24" height="94" x="689.6395635" y="649" rx="12" ry="6"/>
+  <text id="text58" class="tLabel" x="701.64" y="704.5">
+    <tspan id="tspan58n0" class="tsLabel" x="701.64" y="704.5" sodipodi:role="line">26</tspan>
+  </text>
+  <rect width="24" height="12" x="689.6395635" y="649" rx="12" ry="6" class="shape" style="fill:#FFA500;"/>
+  <text id="texth58" class="tLabel" x="701.64" y="676">
+    <tspan id="tspanh58n0" class="tshtLabel" x="701.64" y="676" sodipodi:role="line">274</tspan>
+  </text>
+  <text id="textt58" class="tLabel" x="701.64" y="736">
+    <tspan id="tspant58n0" class="tshtLabel" x="701.64" y="736" sodipodi:role="line">265</tspan>
+  </text>
+  <path dunnart:reversed="0" dunnart:type="bioStrand" id="30" dunnart:xPos="681" dunnart:yPos="389" dunnart:width="40" dunnart:height="62" dunnart:label="27" dunnart:fillColour="ff8400ff;" dunnart:detailLevel="0" class="shape" style="fill:#FF8400;" proorigami:residueNames="LEU GLU ILE" proorigami:residueSeqNums="282 283 284" proorigami:sseseqnum="27" proorigami:chainId="A" proorigami:sheetId="B" proorigami:domainId="" proorigami:hovertext="STRAND_A_10" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="284" dunnart:tailLabel="282" d="M 701.1395874,392.0010071 L 717.6395874,408.5010071 L 709.3895874,408.5010071 L 709.3895874,447.0010071 L 692.8895874,447.0010071 L 692.8895874,408.5010071 L 684.6395874,408.5010071 L 701.1395874,392.0010071 z"/>
+  <text id="text30" class="tLabel" x="701.64" y="424.001">
+    <tspan id="tspan30n0" class="tsLabel" x="701.64" y="424.001" sodipodi:role="line">27</tspan>
+  </text>
+  <text id="texth30" class="tLabel" x="701.64" y="410.001">
+    <tspan id="tspanh30n0" class="tshtLabel" x="701.64" y="410.001" sodipodi:role="line">284</tspan>
+  </text>
+  <text id="textt30" class="tLabel" x="701.64" y="441.001">
+    <tspan id="tspant30n0" class="tshtLabel" x="701.64" y="441.001" sodipodi:role="line">282</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="59" dunnart:xPos="686" dunnart:yPos="50" dunnart:width="30" dunnart:height="40" dunnart:label="28" dunnart:fillColour="ff6300ff;" dunnart:detailLevel="0" class="shape" style="fill:#FF6300;" proorigami:reversed="0" proorigami:residueNames="VAL GLN GLU PHE" proorigami:residueSeqNums="291 292 293 294" proorigami:helixType="310" proorigami:sseseqnum="28" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="310HELIX_A_18" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="294" dunnart:tailLabel="291" width="24" height="34" x="689.6395635" y="53" rx="12" ry="6"/>
+  <text id="text59" class="tLabel" x="701.64" y="78.5">
+    <tspan id="tspan59n0" class="tsLabel" x="701.64" y="78.5" sodipodi:role="line">28</tspan>
+  </text>
+  <rect width="24" height="12" x="689.6395635" y="53" rx="12" ry="6" class="shape" style="fill:#FF6300;"/>
+  <text id="texth59" class="tLabel" x="701.64" y="50">
+    <tspan id="tspanh59n0" class="tshtLabel" x="701.64" y="50" sodipodi:role="line">294</tspan>
+  </text>
+  <text id="textt59" class="tLabel" x="701.64" y="99">
+    <tspan id="tspant59n0" class="tshtLabel" x="701.64" y="99" sodipodi:role="line">291</tspan>
+  </text>
+  <rect dunnart:reversed="0" dunnart:type="bioHelix" id="60" dunnart:xPos="686" dunnart:yPos="-135" dunnart:width="30" dunnart:height="130" dunnart:label="29" dunnart:fillColour="ff4200ff;" dunnart:detailLevel="0" class="shape" style="fill:#FF4200;" proorigami:reversed="0" proorigami:residueNames="GLY GLU GLN VAL ALA ARG GLU ALA LEU LYS HIS PHE ALA" proorigami:residueSeqNums="295 296 297 298 299 300 301 302 303 304 305 306 307" proorigami:helixType="alpha" proorigami:sseseqnum="29" proorigami:chainId="A" proorigami:clusterId="" proorigami:domainId="" proorigami:hovertext="ALPHAHELIX_A_19" proorigami:selected="0" onmousemove="updateHoverText(evt)" onclick="handleClickEvent(evt)" dunnart:headLabel="307" dunnart:tailLabel="295" width="24" height="124" x="689.6395635" y="-132" rx="12" ry="6"/>
+  <text id="text60" class="tLabel" x="701.64" y="-61.5">
+    <tspan id="tspan60n0" class="tsLabel" x="701.64" y="-61.5" sodipodi:role="line">29</tspan>
+  </text>
+  <rect width="24" height="12" x="689.6395635" y="-132" rx="12" ry="6" class="shape" style="fill:#FF4200;"/>
+  <text id="texth60" class="tLabel" x="701.64" y="-105">
+    <tspan id="tspanh60n0" class="tshtLabel" x="701.64" y="-105" sodipodi:role="line">307</tspan>
+  </text>
+  <text id="textt60" class="tLabel" x="701.64" y="-15">
+    <tspan id="tspant60n0" class="tshtLabel" x="701.64" y="-15" sodipodi:role="line">295</tspan>
+  </text>
+  <rect dunnart:type="rect" id="61" dunnart:xPos="685" dunnart:yPos="-222" dunnart:width="32" dunnart:height="32" dunnart:label="C" dunnart:fillColour="ff2100ff;" dunnart:detailLevel="0" class="shape" style="fill:#FF2100;" proorigami:chainId="A" proorigami:domainId="" proorigami:hovertext="chain A" onclick="handleClickEvent(evt)" width="26" height="26" x="688.6395635" y="-219"/>
+  <text id="text61" class="tLabel" x="701.64" y="-202">
+    <tspan id="tspan61n0" class="tsLabel" x="701.64" y="-202" sodipodi:role="line">C</tspan>
+  </text>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Overlap" style="display:inline;" dunnart:count="0"/>
+</svg>

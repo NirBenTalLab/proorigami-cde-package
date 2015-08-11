@@ -1,0 +1,4 @@
+cd 'cde-root/home/proorigami'
+'./make_cartoon.sh.cde' '/local/munk/data/pdb/pdb/ub/pdb1ubi.ent.gz'
+'./make_cartoon.sh.cde' '/local/munk/data/pdb/pdb/ub/pdb1ubi.ent.gz'
+'./make_cartoon.sh.cde' '/local/munk/data/pdb/pdb/ub/pdb1ubi.ent.gz'
