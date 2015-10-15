@@ -5064,10 +5064,11 @@ class PTGraph2:
             if node.get_is_positioned(): # e.g. 3_10, pi helices may not be
                 node.write_svg(fh)
 
+#Test by Shi - allow dunnart to layout
         # write out the cluster constraints (for sheets and helix clusters)
-        for cluster in self.sheet_cluster_list + self.helix_cluster_list:
-            cluster.write_svg(fh)
-
+        # for cluster in self.sheet_cluster_list + self.helix_cluster_list:
+        #     cluster.write_svg(fh)
+        #
         # write out the alignment and distribution constraints
         for svgconstraint in self.svg_constraint_list:
             svgconstraint.write_svg(fh)
@@ -6730,36 +6731,77 @@ def make_graphs(pdb_filename,
                 write_beta_sheet_order(ptg, outfilename)
                 outfilename += '.svg'
                 sys.stdout.write('writing file ' + outfilename + '\n')
-                outfilehandle = open(outfilename, 'w')
-                write_dunnart_svg_prelude(outfilehandle, outfilename,
-                                          pdbid,
-                                          1,
-                                          len(domain_list),
-                                          color_interfering_connectors,
-                                          connector_color_scheme,
-                                          use_dunnart_auto)
-                ptg.write_dunnart_svg(outfilehandle)
-                write_dunnart_svg_conclusion(outfilehandle)
-                outfilehandle.close()
+                #commented out - we don't need svg now
+                # outfilehandle = open(outfilename, 'w')
+                # write_dunnart_svg_prelude(outfilehandle, outfilename,
+                #                           pdbid,
+                #                           1,
+                #                           len(domain_list),
+                #                           color_interfering_connectors,
+                #                           connector_color_scheme,
+                #                           use_dunnart_auto)
+                # ptg.write_dunnart_svg(outfilehandle)
+                # write_dunnart_svg_conclusion(outfilehandle)
+                # outfilehandle.close()
 
 def write_beta_sheet_order(ptg, outfilename):
     sheets=[]
     for sheet in ptg.sheet_dict.values():
-        layout_axis = find_layout_axis(sheet)
-        if layout_axis is None:
-            sys.stdout.write('Couldnt determine correct layout axis for sheet.\n')
+        sorted_sheet = []
+        labels = []
+        mapping = {}
+        mul = 1
+        for strand in sheet:
+            if (int(strand.end_res_seq) - int(strand.start_res_seq)) > 1:
+                sorted_sheet = insert_strand(ptg, sorted_sheet, strand)
+        try:
+            if int(sorted_sheet[0].sseseqnum) > int(sorted_sheet[-1].sseseqnum):
+                sorted_sheet.reverse();
+        except IndexError:
             continue
-
-        sheet_rep = {}
-        keys = []
-        for i in range(len(sheet)):
-            mul = 1
-            if sheet[i].reversed:
+        for i in range(len(sorted_sheet)):
+            labels.append(int(sorted_sheet[i].sseseqnum))
+            mapping[int(sorted_sheet[i].sseseqnum)] = {'strand':sorted_sheet[i], 'pos': i}
+        labels.sort()
+        sheet_rep = [None] * len(sorted_sheet)
+        for i in range(len(labels)):
+            if mapping[labels[i]]['strand'].reversed:
                 mul = -1
-            keys.append(getattr(sheet[i], layout_axis))
-            sheet_rep[getattr(sheet[i], layout_axis)] = (i+1)*mul
-        keys.sort()
-        sheets.append([sheet_rep[x] for x in keys])
+            else:
+                mul = 1
+            sheet_rep[int(mapping[labels[i]]['pos'])] = mul*(i+1)
+        sheets.append(sheet_rep)
+
+    outfilename += '_bso.json'
+    sys.stdout.write('writing file ' + outfilename + '\n')
+    # print(sheets)
+    outfilehandle = open(outfilename, 'w')
+    outfilehandle.write(str(sheets))
+    outfilehandle.close()
+
+        # layout_axis = find_layout_axis(sheet)
+        # if layout_axis is None:
+        #     sys.stdout.write('Couldnt determine correct layout axis for sheet.\n')
+        #     continue
+
+        # sheet_rep = {}
+        # keys = []
+        # labels = []
+        # label_pos_dict = {}
+        # for i in range(len(sheet)):
+        #     keys.append(getattr(sheet[i], layout_axis))
+        #     sheet_rep[getattr(sheet[i], layout_axis)] = sheet[i]
+        # keys.sort()
+        #
+        # for i in range(len(keys)):
+        #     label = sheet_rep[keys[i]].label
+        #     labels.append(label)
+        #     label_pos_dict[label] = (i+1)
+        #
+        # labels.sort()
+
+
+        # sheets.append([sheet_rep[x] for x in keys])
     # for sheet in ptg.sheet_dict.values():
     #     sheet_rep = [None] * len(sheet)
     #     for i in range(len(sheet)):
@@ -6770,12 +6812,67 @@ def write_beta_sheet_order(ptg, outfilename):
     #             sheet_rep.extend([None]*(int(sheet[i].label)-(len(sheet_rep)-1)))
     #         sheet_rep[int(sheet[i].label)] = (i+1)*mul
     #     sheets.append([x for x in sheet_rep if x is not None])
-    outfilename += '_bso.json'
-    sys.stdout.write('writing file ' + outfilename + '\n')
-    # print(sheets)
-    outfilehandle = open(outfilename, 'w')
-    outfilehandle.write(str(sheets))
-    outfilehandle.close()
+    # outfilename += '_bso.json'
+    # sys.stdout.write('writing file ' + outfilename + '\n')
+    # # print(sheets)
+    # outfilehandle = open(outfilename, 'w')
+    # outfilehandle.write(str(sheets))
+    # outfilehandle.close()
+
+def insert_strand(ptg, sorted_sheet, strand):
+    strand_computed_index = find_closest_strand(ptg, sorted_sheet, strand)
+    if None == strand_computed_index:
+        sorted_sheet.insert(0, strand)
+    else:
+        index_padding = left_or_right_of_index(ptg, sorted_sheet, strand, strand_computed_index)
+        sorted_sheet.insert(strand_computed_index+index_padding, strand)
+    return sorted_sheet
+
+def find_closest_strand(ptg, sorted_sheet, strand):
+    min_distance, closest_index = 9999,None
+    for i in range(len(sorted_sheet)):
+        new_strand_index = ptg.distmatrix.sse_index_map[strand]
+        current_strand_index = ptg.distmatrix.sse_index_map[sorted_sheet[i]]
+        current_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][current_strand_index]
+        if current_distance < min_distance:
+            closest_index = i
+            min_distance = current_distance
+    return closest_index
+
+
+def left_or_right_of_index(ptg, sorted_sheet, strand, strand_computed_index):
+    pad,check_left,check_right = 0,True,True
+    new_strand_index = ptg.distmatrix.sse_index_map[strand]
+    closest_index = ptg.distmatrix.sse_index_map[sorted_sheet[strand_computed_index]]
+
+    if (strand_computed_index-1) < 0:
+        check_left = False
+    else:
+        left_strand = sorted_sheet[strand_computed_index-1]
+        left_index = ptg.distmatrix.sse_index_map[left_strand]
+
+    if (strand_computed_index+1) > (len(sorted_sheet)-1):
+        check_right = False
+    else:
+        right_strand = sorted_sheet[strand_computed_index+1]
+        right_index = ptg.distmatrix.sse_index_map[right_strand]
+
+    if check_left and check_right:
+        left_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][left_index]
+        right_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][right_index]
+        if left_distance > right_distance:
+            pad = 1
+    elif check_left:
+        left_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][left_index]
+        closest_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][closest_index]
+        if left_distance > closest_distance:
+            pad = 1
+    elif check_right:
+        right_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][right_index]
+        closest_distance = ptg.distmatrix.sse_dist_matrix[new_strand_index][closest_index]
+        if closest_distance > right_distance:
+            pad = 1
+    return pad
 
 def find_layout_axis(sheet):
     xpos = ypos = True
